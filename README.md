@@ -54,7 +54,7 @@ npm start
 <h4>
 
 **For support, contact the developer [here](https://wa.me/201023727053?text=عند+مشكله)**  
-**Discount code:** `veni`
+**Discount code:** `loyd`
 
 </h4>
 
